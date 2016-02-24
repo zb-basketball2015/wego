@@ -1,4 +1,4 @@
-#wego
+##*#wego
 
 wego is a weather client for the terminal.
 
